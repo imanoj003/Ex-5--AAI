@@ -3,7 +3,7 @@
 ### NAME: Manoj M
 ### REGISTER NUMBER: 212221240027
 ### EXPERIMENT NO: 05
-### DATE:
+
 
 ## Aim: 
 To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
